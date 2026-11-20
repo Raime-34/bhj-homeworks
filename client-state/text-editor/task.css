@@ -8,3 +8,13 @@ textarea {
   border: 1px solid #e2e2e2;
   box-sizing: border-box;
 }
+
+.clear {
+  font-family: Golos, Arial, sans-serif;
+  color: #fff;
+  background-color: #06f;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  cursor: pointer;
+  padding: 8px 12px;
+}
